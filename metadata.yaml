@@ -1,0 +1,38 @@
+_repo: Earthquakes-and-Other-Earth-Movements_60007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milne, John
+    birthdate: 1850
+    deathdate: 1913
+    gutenberg_agent_id: '50742'
+    url: http://www.gutenberg.org/2009/agents/50742
+    wikipedia: https://en.wikipedia.org/wiki/John_Milne
+description: ''
+gutenberg_issued: '2019-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60007'
+  lccn: '16008216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Earthquakes'
+- GITenberg
+tableOfContents: 'Introduction -- Seismometry -- Earthquake motion discussed theoretically
+  -- Earthquake motion as deduced from experiment -- Earthquake motion as deduced
+  from observation on earthquakes -- Effects produced by earthquakes upon buildings
+  -- Effects produced upon buildings (continued) -- Effects of earthquakes on land
+  -- Disturbances in the ocean -- Determination of earthquake origins -- The depth
+  of an earthquake centrum -- Distribution of earthquakes in space and time -- Distribution
+  of earthquakes in time (continued) -- Distribution of earthquakes in time (continued)
+  -- Barometrical fluctuations and earthquakes; fluctuations in temperature and earthquakes
+  -- Relation of seismic to volcanic phenomena -- The cause of earthquakes -- Prediction
+  of earthquakes -- Earth tremors -- Earth pulsations -- Earth oscillations -- Appendix:
+  List of the principal books, papers, periodicals, which are referred to in the preceding
+  pages.'
+title: Earthquakes and Other Earth Movements
+url: http://www.gutenberg.org/ebooks/60007
